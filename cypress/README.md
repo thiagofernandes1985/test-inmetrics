@@ -21,9 +21,7 @@
 ## 🚀 Instalação do Projeto
 
 ```bash
-git clone https://github.com/
-
-cd seu-repo
+git clone https://github.com/thiagofernandes1985/test-inmetrics
 
 npm install
 ```
