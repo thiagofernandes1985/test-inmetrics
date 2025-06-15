@@ -71,5 +71,5 @@ No UI, selecione os testes desejados nas pastas ``frontend`` ou ``api``.
 
 - [API Trello - Documentação Oficial](https://trello.com/)
 
-- [Site do Automation Exercise]('https://www.automationexercise.com')
+- [Site do Automation Exercise](https://www.automationexercise.com)
 
